@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+   
+}
+
+.offcanvas-btn-backgroun {
+    background-color: #E76F51;
+    font-weight: 700;
+   width: 91px;
+   height: 44px;
+}
+.forget {
+    text-decoration: none;
+}
+.section-background {
+    background-color: #264653;
+}
+.purchase {
+    background-color: #E76F51;
+   width: 168px;
+   height: 44px;
+   color: white;
+   font-size: 16px;
+
+}
+.t-style {
+    font-weight: 600;
+    font-size: 30px;
+   display: flex;
+   align-items: center;
+}
+.p-style {
+    color: #E76F51;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.gray-scale {
+    filter: grayscale(100%);
+}
+.gray-scale:hover {
+    filter: grayscale(0%);
+}
+.text-2 {
+    font-size: 30px;
+    font-weight: 600;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+}
+.text-3 {
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 2px;
+    color: #E76F51;
+}
+.fa-star {
+    color: #E77C40;
+    padding: 4px;
+}
+fa-instagram {
+    height: 80px;
+    width: 80px;
+}
